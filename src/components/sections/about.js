@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript (ES6+)', 'HTML & CSS', 'React', 'Node.js', 'Wix'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +135,24 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Johnny, and I enjoy building things for the web. My interest in
+              coding started in 2018 when I began teaching myself through resources like YouTube,
+              freeCodeCamp, Codewars, and Udemy, turning curiosity into a passion for creating with
+              HTML, CSS, &amp; JavaScript.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              I spent over four years as a Front-End Developer at{' '}
+              <a href="https://gapinc.com/">Gap Inc.</a>, where I worked on large-scale
+              applications, including the homepage experience. There, I built responsive,
+              user-friendly interfaces and collaborated with cross-functional teams in a fast-paced
+              production environment.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Currently, I’m expanding into back-end and full-stack development while also exploring
+              data engineering. I’ve been learning MySQL and Python to broaden my skill set and take
+              on more end-to-end work.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

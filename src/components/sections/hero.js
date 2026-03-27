@@ -66,7 +66,7 @@ const Hero = () => {
     <>
       <p>
         I'm a software engineer based in San Francisco, CA specializing in building websites and
-        applications with beautiful typefaces.
+        applications with cool typefaces.
       </p>
     </>
   );
