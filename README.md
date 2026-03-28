@@ -1,7 +1,3 @@
-
-Note to jabinx92 - gatsby build + firebase deploy = deploys current version to google firebase
-
-
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
