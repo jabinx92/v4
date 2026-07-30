@@ -2,6 +2,7 @@
 date: '0'
 title: 'WaveLens'
 cover: './wavelens-icon.png'
+github: 'https://github.com/jabinx92/surf-app'
 external: 'https://wavelens.expo.app'
 tech:
   - TypeScript
