@@ -1,7 +1,6 @@
 ---
 date: '2026-07-30'
 title: 'WaveLens'
-github: 'https://github.com/jabinx92/surf-app'
 external: 'https://wavelens.expo.app'
 tech:
   - TypeScript
