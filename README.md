@@ -38,6 +38,21 @@
    npm run serve
    ```
 
+## 📊 Visitor Analytics
+
+This site uses Google Analytics 4 (GA4) to record page views, including client-side
+Gatsby navigation. Tracking is enabled only in production builds.
+
+The production site is connected to the `Jonathan Won` GA4 property with
+measurement ID `G-BD4GT53KZM`. To use a different property for a specific
+deployment, set `GATSBY_GOOGLE_ANALYTICS_ID`; it overrides the default ID. For
+local production testing, copy `.env.example` to `.env.production` and replace
+the placeholder ID.
+
+In Google Analytics, use **Reports → Acquisition → Traffic acquisition** and change
+the date range to view daily, weekly, or monthly traffic. **Reports → Realtime** is
+useful for confirming the integration immediately after deployment.
+
 ## 🎨 Color Reference
 
 1. Went for matrix themed color palette, reference attached link
@@ -45,7 +60,6 @@
    ```sh
    https://colorswall.com/palette/868/
    ```
-
 
 <div align="center">
   <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
