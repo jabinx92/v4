@@ -1,7 +1,7 @@
 ---
 date: '0'
 title: 'WaveLens'
-cover: './wavelens-icon.png'
+cover: './wavelens-homepage.png'
 github: 'https://github.com/jabinx92/surf-app'
 external: 'https://wavelens.expo.app'
 tech:
