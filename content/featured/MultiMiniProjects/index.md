@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Multi Mini Projects'
 cover: './menu.jpg'
 github: 'https://github.com/jabinx92/react-projects-master-final'
